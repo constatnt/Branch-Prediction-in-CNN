@@ -8,6 +8,7 @@ You can read the detailed information at this paper.
 - S.Park, ＂Modified Convolution Neural Network for Highly Effective Parallel Processing", IEEE IRI, 2017.
 
 Copyright by Constant Park and Embedded SoC Lab (ESoC Lab). 
+
 All implementation can be modified with any permission.
 
 I give some Question and Answer.
