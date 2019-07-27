@@ -7,7 +7,8 @@ This is original code of LeNet-5 Accleration with OpenCL.
 You can read the detailed information at this paper. 
 - S.Park, ＂Modified Convolution Neural Network for Highly Effective Parallel Processing", IEEE IRI, 2017.
 
-Copyright by Constant Park and Embedded SoC Lab (ESoC Lab). All implementation can be modified with any permission.
+Copyright by Constant Park and Embedded SoC Lab (ESoC Lab). 
+All implementation can be modified with any permission.
 It does not matter if you can make your project. 
 
 I give some Question and Answer.
