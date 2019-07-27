@@ -1,5 +1,6 @@
 This is LeNet5 Accleration Code.
-Accelerated implementation using HSA (AMD A10 Procesesor). \n
+Accelerated implementation using HSA (AMD A10 Procesesor). 
+
 Designed by Constant Park (sonicstage12@naver.com).
 This is original code of LeNet-5 Accleration with OpenCL.
 
